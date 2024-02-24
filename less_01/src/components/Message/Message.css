@@ -1,0 +1,7 @@
+.message__style{
+    background-color: #a844a3;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 60px;
+}
